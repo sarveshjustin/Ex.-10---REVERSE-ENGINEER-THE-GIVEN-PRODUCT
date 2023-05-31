@@ -33,10 +33,11 @@
 ## Input:
 
 ### Output:
+![ten](https://github.com/sarveshjustin/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/113497481/112d8429-ab04-40fc-a651-6adb7fa1de16)
 
 
-### Name:
-### Register Number:
+### Name:sarvesh.s
+### Register Number:212222230135
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
